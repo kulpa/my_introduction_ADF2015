@@ -29,7 +29,7 @@ void draw()
     image( img2, 0, 0);
     fill(255,0,0);
     textSize(30);
-    text("Ito Kodai,Nice to meet you!!", 10, 35);
+    text("Ito Kodai,Nice to meet you!!\n programming dekinai", 10, 35);
   }
     timer ++;
 }
